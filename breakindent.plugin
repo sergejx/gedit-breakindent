@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=breakindent
+IAge=3
+Name=Breakindent
+Description=
+Authors=Sergej Chodarev
+Copyright=Copyright © 2016 Sergej Chodarev
+Website=
